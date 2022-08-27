@@ -1,0 +1,93 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Raleway:wght@500&display=swap');
+
+.landing-page{
+    background: radial-gradient(50% 50% at 50% 50%, #181743 0%, #340C64 100%);
+    margin-right: 0px;
+    height: 100%;
+    /* height: 300px; */
+}
+
+.pane1{
+    position: relative;
+    /* height: 35vw;     */
+}
+
+.rocket-image{
+     height: 35vw;
+     bottom: 0;
+     right: 0;
+     position: absolute;
+}
+.four-images{
+    height: 10rem;
+    position: absolute;
+}
+
+.vision{
+    left: 5rem;
+    top: 0rem;
+    height: 14rem;
+}
+.strategy{
+    left: 7rem;
+    height: 7rem;
+    bottom: 19rem;
+}
+.marketing{
+    right: 3rem;
+    top: 1rem;
+    height: 13rem;
+}
+.ideas{
+    right: 0;
+    bottom: 0;
+}
+
+
+div{
+    position: relative;
+}
+.row{
+    margin-right: 0px;
+}
+.font_style_1{
+    text-align: left;
+    padding-top: 5%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 7rem;
+    line-height: 10vw;
+    font-weight: 800;
+    line-height: 89px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px #160d2ad6, -1px 3px 4px rgb(254 253 253 / 0%);
+
+}
+.font_style_2{
+    color: white;
+    font-family: 'Poppins';
+    font-style: normal;
+    text-align: left;
+    font-size: 2vw;
+}
+.ideas_first_line{
+    margin-bottom: 0PX;
+    margin-top: 10%;
+}
+.up{
+    color: #13EEAC !important;
+}
+
+.startup{
+    padding-right: 35%;
+}
+
+@media only screen and (max-width: 768px) {
+    .heading{
+        font-size: 1rem;
+    }
+}
+
+
+
