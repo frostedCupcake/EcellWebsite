@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a01dc8a.css",
-    "main.js": "/static/js/main.a5bf4155.js",
+    "main.css": "/static/css/main.be9404f2.css",
+    "main.js": "/static/js/main.de53b213.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/bg_try1.jpg": "/static/media/bg_try1.e56d2c03f00c088590c3.jpg",
     "static/media/rocket-full.png": "/static/media/rocket-full.3412d79d22d32064e48b.png",
+    "static/media/Budding_Analyst.png": "/static/media/Budding_Analyst.0401dd36c03971d53aee.png",
     "static/media/ques.png": "/static/media/ques.27116c67bbf7197c5898.png",
     "static/media/businessmen.png": "/static/media/businessmen.20013a5b0b7e15828c1f.png",
     "static/media/line-rocket.png": "/static/media/line-rocket.2f9aca2bfb0f998d9139.png",
-    "static/media/tesla.png": "/static/media/tesla.ec9ee85e7b810a39bf50.png",
-    "static/media/netflix.png": "/static/media/netflix.8d14e231df13a2ddb25b.png",
     "static/media/shuttle-icon.svg": "/static/media/shuttle-icon.551e116a585d129c52386b183d28a7c5.svg",
+    "static/media/internshala.jpg": "/static/media/internshala.b283693b47ebe4010ff3.jpg",
     "index.html": "/index.html",
-    "main.5a01dc8a.css.map": "/static/css/main.5a01dc8a.css.map",
-    "main.a5bf4155.js.map": "/static/js/main.a5bf4155.js.map",
+    "main.be9404f2.css.map": "/static/css/main.be9404f2.css.map",
+    "main.de53b213.js.map": "/static/js/main.de53b213.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a01dc8a.css",
-    "static/js/main.a5bf4155.js"
+    "static/css/main.be9404f2.css",
+    "static/js/main.de53b213.js"
   ]
 }
